@@ -10,7 +10,7 @@ starlight_dart_socket_io is a dart base socket server that can be used as socket
 
 ## Installation
 
-Add starlight_base_appbar as dependency to your pubspec file.
+Add starlight_dart_socket_io as dependency to your pubspec file.
 
 
 ```dart
